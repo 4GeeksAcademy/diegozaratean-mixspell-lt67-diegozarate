@@ -1,0 +1,6 @@
+Las tecnologias que mas me gusta usar:
+
+-HTML
+-CSS
+-Python
+-Javascript
