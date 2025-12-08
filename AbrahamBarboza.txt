@@ -1,0 +1,6 @@
+Hasta los momentos todo lo que he visto ha sido nuevo pero a su vez muy interesante, realmente me han gustado todas las tecnologia:
+-HTML
+-CSS
+-BOOTSTRAP
+-CMD o linea de comando.
+Y ahora estamos conociendo un poco mas de GIT.
