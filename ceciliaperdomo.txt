@@ -1,0 +1,4 @@
+Las tecnologias que mas me gustan: 
+- HTML
+- CSS
+- React
