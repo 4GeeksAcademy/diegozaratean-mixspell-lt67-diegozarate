@@ -1,0 +1,5 @@
+Las tecnologia que conozco al dia de hoy son:
+
+- HTML
+- CSS
+- JS
