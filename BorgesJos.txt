@@ -1,0 +1,9 @@
+Saludos!! mi nombre es José Borges
+Soy un estudiante de 4GeeksAcademy Cohorte-Latam-67
+
+Mis tecnologías favoritas son:
+
+1-html
+2-python
+3-git
+
